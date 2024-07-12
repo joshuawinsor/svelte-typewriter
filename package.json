@@ -5,15 +5,6 @@
     "svelte",
     "typewriter-effect"
   ],
-  "homepage": "https://sr.ht/~henriquehbr/svelte-typewriter",
-  "repository": {
-    "type": "git",
-    "url": "https://git.sr.ht/~henriquehbr/svelte-typewriter"
-  },
-  "bugs": {
-    "url": "https://todo.sr.ht/~henriquehbr/svelte-typewriter",
-    "email": "henriqueborgeshbr@gmail.com"
-  },
   "version": "3.2.3",
   "main": "./package/Typewriter.svelte",
   "type": "module",
